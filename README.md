@@ -14,6 +14,15 @@ I use AI as a force multiplier to ship real products in days, not months. Every 
 | **WP Jenga** | WordPress health scanner — security, performance & SEO audits with A-F grades | [wp-jenga.netlify.app](https://wp-jenga.netlify.app) |
 | **Hookflow** | Webhook & API pipeline builder — connect triggers to actions, automate workflows | [hookflow-app.netlify.app](https://hookflow-app.netlify.app) |
 | **Devfolio** | GitHub portfolio generator — instant dev portfolio from any username | [devfolio-gen.netlify.app](https://devfolio-gen.netlify.app) |
+| **TrackWhatISent** | Lifetime remittance tracker — see how much you've sent across Western Union, Wise, Remitly & more | [trackwhatisent.netlify.app](https://trackwhatisent.netlify.app) |
+
+---
+
+### 🔧 Open Source Tools
+
+| Tool | Description |
+|------|-------------|
+| **[get-brand-logos](https://github.com/rumizenzz/get-brand-logos)** | Fetch official brand logos for any company in one command — no API keys, no signup |
 
 ---
 
