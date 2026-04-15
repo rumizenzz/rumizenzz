@@ -33,5 +33,5 @@ I use AI as a force multiplier to ship real products in days, not months. Every 
 
 ### 📫 Get in Touch
 
-- **Email:** rumizenzz@outlook.com
+- **Email:** hello@zenzadaegroup.com
 - **Looking for:** Remote full-stack / AI developer roles with US-based companies
