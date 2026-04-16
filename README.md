@@ -22,6 +22,7 @@ I use AI as a force multiplier to ship real products in days, not months. Every 
 
 | Tool | Description |
 |------|-------------|
+| **[claude-skills](https://github.com/rumizenzz/claude-skills)** | Custom skills for Claude Code — extend Claude with one command |
 | **[get-brand-logos](https://github.com/rumizenzz/get-brand-logos)** | Fetch official brand logos for any company in one command — no API keys, no signup |
 
 ---
@@ -34,7 +35,7 @@ I use AI as a force multiplier to ship real products in days, not months. Every 
 
 **AI:** Google Vertex AI · Gemini · Nano Banana 2 · Veo 2
 
-**Payments:** Stripe
+**Payments & Fintech:** Stripe · Plaid
 
 **DevOps:** Netlify · GitHub Actions · CI/CD
 
